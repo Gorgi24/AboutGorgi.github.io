@@ -1,5 +1,4 @@
 # AboutGorgi.github.io
-The about me page
 <html lang="en">
 	  <head>
 	    <meta charset="utf-8">
@@ -15,6 +14,6 @@ The about me page
     <br>
     <h1>My interests and hobbies</h1>
     <br>
-    </a>
+    
 	  </body>
 	</html>
