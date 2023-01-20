@@ -14,6 +14,5 @@
     <br>
     <h1>My interests and hobbies</h1>
     <br>
-    
 	  </body>
 	</html>
