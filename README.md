@@ -6,7 +6,7 @@
 	  </head>
 	  <body bgcolor="#FFB3E6">
     <a href="https://gorgi24.github.io/">Home</a>
-    <a href="portfolio.html">Portfolio</a>
+    <a href="https://gorgi24.github.io/portfolio.github.io/">Portfolio</a>
     <a href="https://gorgi24.github.io/AboutGorgi.github.io/index.html">About Me</a>
     <h1>This is the me page, with things about me</h1>
     <img src="https://user-images.githubusercontent.com/123103459/213887688-432c3436-77b6-4a75-bb20-15f37f62919e.jpg" alt="Wood" width="300" height="250">
