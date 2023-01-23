@@ -1,4 +1,4 @@
-# AboutGorgi.github.io
+# About Me
 <html lang="en">
 	  <head>
 	    <meta charset="utf-8">
